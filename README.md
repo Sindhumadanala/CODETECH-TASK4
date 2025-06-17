@@ -1,14 +1,14 @@
-**Name**:KORIKANA SRIJA
+**Name**:MADANALA SINDHUJA
 
-**Company name:**CODETECH IT SOLUTIONS
+**Company name**:CODETECH IT SOLUTIONS
 
-**ID:**CT04DF1772
+**ID**:CT04DF2029
 
-**Domain:**VLSI
+**Domain**:VLSI
 
-**Duration:**MAY TO JUNE 2025
+**Duration**:MAY TO JUNE 2025
 
-**Overview of the Topic:**
+**Overview of the Topic**:
 Digital filters are essential components in Digital Signal Processing (DSP) systems, used to modify or enhance the characteristics of a digital signal. FIR filters are a class of digital filters characterized by their impulse response being finite in duration, meaning they produce an output that is a finite sum of past input samples. This property gives FIR filters several desirable characteristics, such as linear phase response (which prevents signal distortion) and guaranteed stability. They are widely used in applications like audio processing, image processing, communication systems, and biomedical signal processing. The design process involves determining the filter coefficients based on desired frequency response characteristics (e.g., low-pass, high-pass, band-pass).
 
 **Objective:**
